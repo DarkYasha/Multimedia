@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="grab">Grabar</string>
+    <string name="par">Detener Grabacion</string>
+    <string name="rep">Reproducir Grabacion</string>
+</resources>
